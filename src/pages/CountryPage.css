@@ -1,0 +1,38 @@
+/* Add these styles to your existing CSS */
+.chart-section {
+  margin: 3rem 0;
+  background: var(--white);
+  padding: 2rem;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.chart-container {
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.chart-description {
+  text-align: center;
+  margin-top: 1rem;
+  color: var(--gray);
+  font-size: 0.9rem;
+}
+
+.attacks-table h2 {
+  margin-bottom: 1.5rem;
+  color: var(--secondary);
+  font-size: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .chart-section {
+    padding: 1rem;
+    margin: 2rem 0;
+  }
+
+  .chart-container {
+    max-width: 100%;
+  }
+}

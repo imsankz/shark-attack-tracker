@@ -8,7 +8,10 @@ export default function Navbar() {
         <div className="header-content">
           <Link to="/" className="logo">
             <span className="logo-icon">🦈</span>
-            <span className="logo-text">Shark Tracker</span>
+            <div className="logo-text-container">
+              <span className="logo-main">Shark Attack Tracker</span>
+              <span className="logo-sub">Global Shark Attack Database</span>
+            </div>
           </Link>
           <nav className="nav">
             <ul className="nav-links">
