@@ -17,7 +17,7 @@ import { useState, useEffect } from 'react'
               {
                 params: {
                   group_by: 'country',
-                  limit: 100
+                  limit: 300
                 }
               }
             )
