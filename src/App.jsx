@@ -13,10 +13,12 @@ import SharkSafety from './pages/SharkSafety'
 import Research from './pages/Research'
 import DataSources from './pages/DataSources'
 import Faq from './pages/Faq'
+import SEO from './components/SEO'
 
 function App() {
   return (
     <div className="app">
+      <SEO />
       <Navbar />
       <main>
         <Routes>

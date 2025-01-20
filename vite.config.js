@@ -17,10 +17,21 @@ export default defineConfig(({ command }) => {
         inject: {
           data: {
             title: 'Global Shark Attack Tracker',
-            description: 'Comprehensive shark attack data and analysis from around the world'
+            description: 'Comprehensive shark attack data and analysis from around the world',
+            themeColor: '#1a73e8',
+            ogImage: 'https://www.thesharksattacks.com/og-image.jpg'
           }
         }
       })
-    ]
+    ],
+    build: {
+      manifest: true,
+      rollupOptions: {
+        output: {
+          assetFileNames: 'assets/[name]-[hash][extname]',
+          entryFileNames: 'assets/[name]-[hash].js'
+        }
+      }
+    }
   }
 })
