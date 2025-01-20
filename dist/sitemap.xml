@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    <url>
+      <loc>http://localhost:5173/</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/about</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/statistics</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/shark-safety</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/research</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/data-sources</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/faq</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/privacy-policy</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/terms-of-service</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/cookie-policy</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/contact</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/admiralty-islands</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/africa</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/algeria</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/american-samoa</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/andaman-%2F-nicobar-islandas</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/andaman-islands</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/angola</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/antigua</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/argentina</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/aruba</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/asia%3F</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/atlantic-ocean</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/australia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/azores</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/australia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/bahamas</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/bahrein</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/bangladesh</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/barbados</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/bay-of-bengal</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/belize</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/bermuda</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/brazil</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/british-isles</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/british-new-guinea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/british-virgin-islands</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/british-west-indies</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/burma</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/between-portugal-%26-india</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/british-overseas-territory</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/canada</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/cape-verde</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/caribbean-sea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/cayman-islands</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/central-pacific</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/ceylon</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/ceylon-(sri-lanka)</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/chile</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/china</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/colombia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/columbia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/comoros</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/cook-islands</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/costa-rica</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/crete</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/croatia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/cuba</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/curacao</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/cyprus</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/coast-of-africa</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/diego-garcia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/djibouti</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/dominican-republic</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/ecuador</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/egypt</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/egypt-%2F-israel</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/el-salvador</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/england</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/equatorial-guinea-%2F-cameroon</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/falkland-islands</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/federated-states-of-micronesia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/fiji</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/france</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/french-polynesia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/fiji</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/gabon</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/georgia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/ghana</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/grand-cayman</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/greece</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/greenland</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/grenada</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/guam</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/guatemala</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/guinea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/gulf-of-aden</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/guyana</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/haiti</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/honduras</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/hong-kong</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/iceland</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/india</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/indian-ocean</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/indian-ocean%3F</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/indonesia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/iran</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/iran-%2F-iraq</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/iraq</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/ireland</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/israel</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/italy</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/italy-%2F-croatia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/jamaica</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/japan</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/java</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/johnston-island</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/jordan</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/kenya</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/kiribati</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/korea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/kuwait</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/lebanon</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/liberia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/libya</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/madagascar</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/malaysia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/maldive-islands</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/maldives</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/malta</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/marshall-islands</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/martinique</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/mauritius</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/mayotte</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/mediterranean-sea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/mexico</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/micronesia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/mid-atlantic-ocean</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/mid-pacifc-ocean</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/monaco</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/montenegro</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/mozambique</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/maldives</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/mexico</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/namibia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/netherlands-antilles</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/nevis</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/new-britain</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/new-caledonia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/new-guinea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/new-zealand</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/nicaragua</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/nigeria</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/north-atlantic-ocean</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/north-pacific-ocean</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/north-sea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/northern-arabian-sea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/northern-mariana-islands</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/norway</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/new-zealand</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/ocean</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/okinawa</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/pacific-ocean</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/palau</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/palestinian-territories</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/panama</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/papua-new-guinea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/paraguay</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/persian-gulf</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/peru</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/philippines</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/portugal</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/puerto-rico</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/red-sea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/red-sea-%2F-indian-ocean</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/red-sea%3F</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/reunion</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/reunion-island</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/roatan</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/russia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/samoa</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/san-domingo</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/saudi-arabia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/scotland</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/senegal</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/seychelles</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/sierra-leone</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/singapore</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/slovenia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/solomon-islands</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/solomon-islands-%2F-vanuatu</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/somalia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/south-africa</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/south-atlantic-ocean</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/south-china-sea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/south-korea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/south-pacific-ocean</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/southwest-pacific-ocean</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/spain</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/sri-lanka</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/st-helena%2C-british-overseas-territory</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/st-kitts-%2F-nevis</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/st-martin</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/st.-maartin</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/st.-martin</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/sudan</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/sudan%3F</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/sweden</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/syria</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/seychelles</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/sierra-leone</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/south-africa</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/taiwan</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/tanzania</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/tasman-sea</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/thailand</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/the-balkans</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/tobago</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/tonga</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/trinidad-%26-tobago</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/tunisia</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/turkey</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/turks-%26-caicos</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/turks-and-caicos</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/tuvalu</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/united-arab-emirates</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/united-arab-emirates-(uae)</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/united-kingdom</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/uruguay</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/usa</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/vanuatu</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/venezuela</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/vietnam</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/west-indies</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/western-samoa</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:5173/country/yemen</loc>
+      <lastmod>2025-01-20T01:14:50.964Z</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+</urlset>

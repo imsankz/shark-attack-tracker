@@ -1,9 +1,10 @@
-import fs from 'fs'
-import path from 'path'
-import axios from 'axios'
-import { sitemapRoutes } from './sitemapRoutes'
+import fs from 'fs';
+import path from 'path';
+import axios from 'axios';
+import { sitemapRoutes } from './sitemapRoutes';
 
-const BASE_URL = 'https://sharkattacktracker.com'
+// Correct BASE_URL for local development
+const BASE_URL = 'http://localhost:5173'; // Change to your deployment URL if needed
 
 async function fetchCountries() {
   try {
@@ -15,30 +16,25 @@ async function fetchCountries() {
           limit: 300
         }
       }
-    )
+    );
     return response.data.results
       .filter(country => country?.country)
       .map(country => ({
         path: `/country/${encodeURIComponent(country.country.toLowerCase().replace(/ /g, '-'))}`,
         changefreq: 'weekly',
         priority: 0.7
-      }))
+      }));
   } catch (error) {
-    console.error('Error fetching countries:', error)
-    return []
+    console.error('Error fetching countries:', error);
+    return [];
   }
 }
 
 export async function generateSitemap() {
   try {
-    // Get static routes
-    const staticRoutes = sitemapRoutes
-    
-    // Get dynamic country routes
-    const countryRoutes = await fetchCountries()
-    
-    // Combine all routes
-    const allRoutes = [...staticRoutes, ...countryRoutes]
+    const staticRoutes = sitemapRoutes;
+    const countryRoutes = await fetchCountries();
+    const allRoutes = [...staticRoutes, ...countryRoutes];
 
     const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -51,20 +47,17 @@ export async function generateSitemap() {
       <priority>${route.priority || 0.8}</priority>
     </url>
   `).join('')}
-</urlset>`
+</urlset>`;
 
-    // Create public directory if it doesn't exist
-    const publicDir = path.join(process.cwd(), 'public')
+    const publicDir = path.join(process.cwd(), 'public');
     if (!fs.existsSync(publicDir)) {
-      fs.mkdirSync(publicDir)
+      fs.mkdirSync(publicDir);
     }
 
-    // Write sitemap to public directory
-    const sitemapPath = path.join(publicDir, 'sitemap.xml')
-    fs.writeFileSync(sitemapPath, sitemap)
-    
-    console.log('Sitemap generated successfully with', countryRoutes.length, 'country pages!')
+    const sitemapPath = path.join(publicDir, 'sitemap.xml');
+    fs.writeFileSync(sitemapPath, sitemap);
+    console.log('Sitemap generated successfully!');
   } catch (error) {
-    console.error('Error generating sitemap:', error)
+    console.error('Error generating sitemap:', error);
   }
 }

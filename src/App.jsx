@@ -1,19 +1,19 @@
-import { Routes, Route } from 'react-router-dom'
-import Home from './pages/Home'
-import CountryPage from './pages/CountryPage'
-import About from './pages/About'
-import Statistics from './pages/Statistics'
-import Navbar from './components/Navbar'
-import Footer from './components/Footer'
-import PrivacyPolicy from './pages/legal/PrivacyPolicy'
-import TermsOfService from './pages/legal/TermsOfService'
-import CookiePolicy from './pages/legal/CookiePolicy'
-import Contact from './pages/Contact'
-import SharkSafety from './pages/SharkSafety'
-import Research from './pages/Research'
-import DataSources from './pages/DataSources'
-import Faq from './pages/Faq'
-import SEO from './components/SEO'
+import { Routes, Route } from 'react-router-dom';
+import Home from './pages/Home';
+import CountryPage from './pages/CountryPage';
+import About from './pages/About';
+import Statistics from './pages/Statistics';
+import Navbar from './components/Navbar';
+import Footer from './components/Footer';
+import PrivacyPolicy from './pages/legal/PrivacyPolicy';
+import TermsOfService from './pages/legal/TermsOfService';
+import CookiePolicy from './pages/legal/CookiePolicy';
+import Contact from './pages/Contact';
+import SharkSafety from './pages/SharkSafety';
+import Research from './pages/Research';
+import DataSources from './pages/DataSources';
+import Faq from './pages/Faq';
+import SEO from './components/SEO';
 
 function App() {
   return (
@@ -38,7 +38,7 @@ function App() {
       </main>
       <Footer />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
