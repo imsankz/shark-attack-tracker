@@ -4,7 +4,7 @@ import axios from 'axios';
 import { sitemapRoutes } from './sitemapRoutes';
 
 // Correct BASE_URL for local development
-const BASE_URL = 'http://localhost:5173'; // Change to your deployment URL if needed
+const BASE_URL = 'https://www.thesharksattacks.com/'; // Change to your deployment URL if needed
 
 async function fetchCountries() {
   try {
